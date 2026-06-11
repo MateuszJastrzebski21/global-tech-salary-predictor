@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+data/processed/*.csv
+model/artifacts/*.joblib
+.DS_Store
+.idea/
+.vscode/
+.claude/
+BUILD_SPEC.md
