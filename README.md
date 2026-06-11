@@ -25,7 +25,7 @@ streamlit run app/streamlit_app.py
 
 ## Live version
 
-Try it here: _TBD — link added after deployment to Streamlit Community Cloud._
+Try it here: <https://global-tech-salary-predictor.streamlit.app>
 
 ## Input and output
 
